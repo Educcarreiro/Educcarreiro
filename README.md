@@ -5,8 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardaccarreiro/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-carreiro-pinheiro//)
 
-![Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=Educcarreiro&show_icons=true&theme=dark)
-
 ## Technologies I use at work
 
 <div style="display: inline_block"><br/> 
